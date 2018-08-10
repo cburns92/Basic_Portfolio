@@ -267,10 +267,9 @@ input[type=submit] {
   #main-container {
     /* padding: 2% 2% 2% 2%; */
     margin-left:1%;
-    margin-right:2%;
     margin-bottom:200px;
     min-height: calc(100vh - 70px);
-    max-width:768px;
+    max-width:98%;
   }
 
   #masthead {
@@ -315,25 +314,13 @@ input[type=submit] {
     background: #4aaaa5;
     margin-left:50px;
   }
+
+  body{
+    margin:0;
+    padding:0;
+  }
   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 @media only screen and (max-width: 640px) {
